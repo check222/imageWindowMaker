@@ -8,7 +8,7 @@ conda install -c conda-forge ipywidgets
 
 or using pip:
 
-```zsh
+```console
 pip install ipywidgets
 jupyter nbextension enable --py widgetsnbextension
 ```
