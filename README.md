@@ -2,13 +2,13 @@
 
 Before using make sure to install ipywidgets using anaconda:
 
-```bash
+```console
 conda install -c conda-forge ipywidgets
 ```
 
 or using pip:
 
-```bash
+```zsh
 pip install ipywidgets
 jupyter nbextension enable --py widgetsnbextension
 ```
