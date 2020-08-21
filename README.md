@@ -1,5 +1,10 @@
 # imageWindowMaker
 
+Update: new file, autoColorFinderWithoutWidgets.ipynb, is a prototype program that automatically outlines shapes it discovers inside of an image and assigns a number to it. Initializing the INDEX variable as one of the numbers of the shapes, after running the kernel, will print two lines of python that are variables containing an array of the lower and upper range of HSV the selected shape. ipywidgets not needed for this program--yet.
+
+**A filter to remove outliers still needs to be added**
+
+
 Before using make sure to install ipywidgets using anaconda:
 
 ```console
