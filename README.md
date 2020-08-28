@@ -7,6 +7,7 @@ Update: new file, autoColorFinderWithoutWidgets.ipynb, is a prototype program th
 **Installation for ipywidgets unecessary for the automatic version ^**
 
 
+
 Before using make sure to install ipywidgets using anaconda:
 
 ```console
