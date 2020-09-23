@@ -27,5 +27,4 @@ Download the project and add the jupyter notebook file to the same folder where 
 
 ![Image of UI](windowMakerUI.png)
 
-
-imageWindowMaker by Griffin Galimi is licensed under CC BY 4.0CC iconby icon
+imageWindowMaker by Griffin Galimi is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0
