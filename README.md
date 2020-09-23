@@ -26,3 +26,6 @@ By running all the cells (last one not needed), you can use two text inputs to s
 Download the project and add the jupyter notebook file to the same folder where the image you want to look at is located.
 
 ![Image of UI](windowMakerUI.png)
+
+
+imageWindowMaker by Griffin Galimi is licensed under CC BY 4.0CC iconby icon
